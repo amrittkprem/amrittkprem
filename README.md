@@ -50,7 +50,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/amrittkprem/amrittkprem/output/snake.svg" alt="Snake animation" />
-
-###
