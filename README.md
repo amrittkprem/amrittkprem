@@ -35,12 +35,12 @@
 
 <h1 align="left">🛠 Language and tools</h1>
 <p>🗺️I mainly use kali and inbuilt tools</p>
-<p>Kali Linux
-Linux (Debian / Ubuntu)
-Windows
-Nmap
-SQLMap
-Burp Suite
+<p>Kali Linux<br>
+Linux (Debian / Ubuntu)<br>
+Windows<br>
+Nmap<br>
+SQLMap<br>
+Burp Suite<br>
 </p>
 
 ###
