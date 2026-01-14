@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 🥷🏻👋🏻</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">student into offensive security and real-world exploitation.<br>I enjoy 🧨 finding vulnerabilities in live systems, 🕵️ understanding how attacks actually work, and 📚 learning new techniques as they evolve.<br>Focused on breaking things to understand them, not just reading about security in theory.</p>
+<p align="left">🥷🏻Student who's into offensive security and real-world exploitation.<br>I enjoy finding vulnerabilities in live systems,understanding how attacks actually work, and learning new techniques as they evolve.<br>Focused on breaking things to understand them.</p>
 
 ###
 
