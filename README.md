@@ -34,6 +34,7 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+<h1>🗺️I mainly use kali and inbuilt tools</h1>
 
 ###
 
